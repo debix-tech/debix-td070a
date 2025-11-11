@@ -25,7 +25,7 @@ RoHS
 
 ## Specification:
 | DEBIX TD070A |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 7 inch (Diagonal) |
 | Driver Element | a-Si TFT action matrix |
 | Resolution   | 1024 x 600 |
